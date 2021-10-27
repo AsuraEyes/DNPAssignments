@@ -1,0 +1,248 @@
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/adults.json
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/appsettings.Development.json
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/appsettings.json
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.StaticWebAssets.xml
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.deps.json
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.runtimeconfig.json
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.runtimeconfig.dev.json
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.dll
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/ref/Assignment1.dll
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.pdb
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.Views.dll
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.Views.pdb
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.csproj.AssemblyReference.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.AssemblyInfoInputs.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.AssemblyInfo.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.MvcApplicationPartsAssemblyInfo.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorComponent.input.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/AddAdult.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/DetailsAdult.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/EditAdult.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/Login.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/ViewAdults.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorComponent.output.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Assignment1.dll
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.TagHelpers.input.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.TagHelpers.output.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorCoreGenerate.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/AddAdult.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/DetailsAdult.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/EditAdult.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/Login.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/ViewAdults.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorAssemblyInfo.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorAssemblyInfo.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/staticwebassets/Assignment1.StaticWebAssets.Manifest.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/staticwebassets/Assignment1.StaticWebAssets.xml
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/scopedcss/bundle/Assignment1.styles.css
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/scopedcss/projectbundle/Assignment1.bundle.scp.css
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorTargetAssemblyInfo.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorTargetAssemblyInfo.cs
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.Views.pdb
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.dll
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/ref/Assignment1.dll
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.pdb
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.genruntimeconfig.cache
+/Users/shadow_asura/Downloads/dnp-assignment-1-master/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.csproj.CopyComplete
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/adults.json
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/appsettings.Development.json
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/appsettings.json
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/Assignment1.StaticWebAssets.xml
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/Assignment1.deps.json
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/Assignment1.runtimeconfig.json
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/Assignment1.runtimeconfig.dev.json
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/Assignment1.dll
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/ref/Assignment1.dll
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/Assignment1.pdb
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/Assignment1.Views.dll
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/bin/Debug/net5.0/Assignment1.Views.pdb
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.csproj.AssemblyReference.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.AssemblyInfoInputs.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.AssemblyInfo.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.MvcApplicationPartsAssemblyInfo.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.RazorComponent.input.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/AddAdult.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/DetailsAdult.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/EditAdult.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/Login.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/ViewAdults.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.RazorComponent.output.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/RazorDeclaration/Assignment1.dll
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.TagHelpers.input.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.TagHelpers.output.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.RazorCoreGenerate.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/Pages/AddAdult.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/Pages/DetailsAdult.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/Pages/EditAdult.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/Pages/Login.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/Pages/ViewAdults.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.RazorAssemblyInfo.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.RazorAssemblyInfo.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/staticwebassets/Assignment1.StaticWebAssets.Manifest.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/staticwebassets/Assignment1.StaticWebAssets.xml
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/scopedcss/bundle/Assignment1.styles.css
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/scopedcss/projectbundle/Assignment1.bundle.scp.css
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.RazorTargetAssemblyInfo.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.RazorTargetAssemblyInfo.cs
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.Views.pdb
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.dll
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/ref/Assignment1.dll
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.pdb
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.genruntimeconfig.cache
+/Users/shadow_asura/Documents/VIA/3RD SEMESTER/DNP/Assignment1/obj/Debug/net5.0/Assignment1.csproj.CopyComplete
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/adults.json
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/appsettings.Development.json
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/appsettings.json
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/Assignment1.StaticWebAssets.xml
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/Assignment1.deps.json
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/Assignment1.runtimeconfig.json
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/Assignment1.runtimeconfig.dev.json
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/Assignment1.dll
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/ref/Assignment1.dll
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/Assignment1.pdb
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/Assignment1.Views.dll
+/Users/shadow_asura/RiderProjects/DNPAssignment1/bin/Debug/net5.0/Assignment1.Views.pdb
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.csproj.AssemblyReference.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.AssemblyInfoInputs.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.AssemblyInfo.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.MvcApplicationPartsAssemblyInfo.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.RazorComponent.input.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/Pages/AddAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/Pages/DetailsAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/Pages/EditAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/Pages/Login.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/Pages/ViewAdults.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.RazorComponent.output.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/RazorDeclaration/Assignment1.dll
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.TagHelpers.input.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.TagHelpers.output.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.RazorCoreGenerate.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/Pages/AddAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/Pages/DetailsAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/Pages/EditAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/Pages/Login.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/Pages/ViewAdults.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.RazorAssemblyInfo.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.RazorAssemblyInfo.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/staticwebassets/Assignment1.StaticWebAssets.Manifest.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/staticwebassets/Assignment1.StaticWebAssets.xml
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/scopedcss/bundle/Assignment1.styles.css
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/scopedcss/projectbundle/Assignment1.bundle.scp.css
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.RazorTargetAssemblyInfo.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.RazorTargetAssemblyInfo.cs
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.Views.pdb
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.dll
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/ref/Assignment1.dll
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.pdb
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.genruntimeconfig.cache
+/Users/shadow_asura/RiderProjects/DNPAssignment1/obj/Debug/net5.0/Assignment1.csproj.CopyComplete
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/adults.json
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/appsettings.Development.json
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/appsettings.json
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.StaticWebAssets.xml
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.deps.json
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.runtimeconfig.json
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.runtimeconfig.dev.json
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.dll
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/ref/Assignment1.dll
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.pdb
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.Views.dll
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/bin/Debug/net5.0/Assignment1.Views.pdb
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.csproj.AssemblyReference.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.AssemblyInfoInputs.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.AssemblyInfo.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.MvcApplicationPartsAssemblyInfo.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorComponent.input.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/AddAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/DetailsAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/EditAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/Login.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Pages/ViewAdults.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorComponent.output.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/RazorDeclaration/Assignment1.dll
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.TagHelpers.input.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.TagHelpers.output.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorCoreGenerate.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/AddAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/DetailsAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/EditAdult.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/Login.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/ViewAdults.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorAssemblyInfo.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorAssemblyInfo.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/staticwebassets/Assignment1.StaticWebAssets.Manifest.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/staticwebassets/Assignment1.StaticWebAssets.xml
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/scopedcss/bundle/Assignment1.styles.css
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/scopedcss/projectbundle/Assignment1.bundle.scp.css
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorTargetAssemblyInfo.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.RazorTargetAssemblyInfo.cs
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.Views.pdb
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.dll
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/ref/Assignment1.dll
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.pdb
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.genruntimeconfig.cache
+/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/Debug/net5.0/Assignment1.csproj.CopyComplete
