@@ -75,13 +75,5 @@ namespace WebAPI.Authentication
             NotifyAuthenticationStateChanged(
                 Task.FromResult(new AuthenticationState(new ClaimsPrincipal(identity))));
         }
-
-        public void Logout()
-        {
-            cachedUser = null;
-            var user = new ClaimsPrincipal(new ClaimsIdentity());
-            jsRuntime.InvokeVoidAsync("sessionStorage.setItem", "currentUser", "");
-            NotifyAuthenticationStateChanged(Task.FromResult(new AuthenticationState(user)));
-        }
     }
 }

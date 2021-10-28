@@ -98,8 +98,9 @@ else
         {
             name = changeEventArgs.Value.ToString();
         }
-        catch (Exception e)
+        catch (Exception)
         {
+    // ignored
         }
         ExecuteFilter();
     }
@@ -117,8 +118,9 @@ else
         {
             minimumAge = int.Parse(changeEventArgs.Value.ToString());
         }
-        catch (Exception e)
+        catch (Exception)
         {
+    // ignored
         }
         ExecuteFilter();
     }

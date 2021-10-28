@@ -28,7 +28,6 @@ namespace WebAPI.Persistence
 
         public void SaveChanges()
         {
-            // storing persons
             var jsonAdults = JsonSerializer.Serialize(Adults, new JsonSerializerOptions
             {
                 WriteIndented = true

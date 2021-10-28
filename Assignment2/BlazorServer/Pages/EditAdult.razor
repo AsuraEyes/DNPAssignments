@@ -4,24 +4,24 @@
 @inject IFileAdapter FileAdapter
 @inject NavigationManager NavigationManager
 <h3>EditAdult</h3>
-<EditForm Model="@_adult" OnValidSubmit="@SaveAdultAsync">
+<EditForm Model="@adult" OnValidSubmit="@SaveAdultAsync">
     <DataAnnotationsValidator/>
     <ValidationSummary/>
     <div class="form-group">
         First name:
-        <InputText type="text" @bind-Value="_adult.FirstName"/>
+        <InputText type="text" @bind-Value="adult.FirstName"/>
     </div>
     <div class="form-group">
         Last name:
-        <InputText type="text" @bind-Value="_adult.LastName"/>
+        <InputText type="text" @bind-Value="adult.LastName"/>
     </div>
     <div class="form-group">
         Sex:
-        <InputText type="text" @bind-Value="_adult.Sex"/>
+        <InputText type="text" @bind-Value="adult.Sex"/>
     </div>
     <div class="form-group">
         Age:
-        <InputNumber @bind-Value="_adult.Age"/>
+        <InputNumber @bind-Value="adult.Age"/>
     </div>
     <div class="form-group">
         Job Title:
@@ -33,19 +33,19 @@
     </div>
     <div class="form-group">
         Height:
-        <InputNumber @bind-Value="_adult.Height"/>
+        <InputNumber @bind-Value="adult.Height"/>
     </div>
     <div class="form-group">
         Weight:
-        <InputNumber @bind-Value="_adult.Weight"/>
+        <InputNumber @bind-Value="adult.Weight"/>
     </div>
     <div class="form-group">
         Hair Color:
-        <InputText type="text" @bind-Value="_adult.HairColor"/>
+        <InputText type="text" @bind-Value="adult.HairColor"/>
     </div>
     <div class="form-group">
         Eye Color:
-        <InputText type="text" @bind-Value="_adult.EyeColor"/>
+        <InputText type="text" @bind-Value="adult.EyeColor"/>
     </div>
     <p class="actions">
         <button class="btn btn-outline-dark" type="submit">Save</button>
@@ -53,7 +53,7 @@
 </EditForm>
 
 @code {
-    private Adult _adult = new();
+    private Adult adult = new();
 
     [Parameter]
     public int id { get; set; }
@@ -63,20 +63,20 @@
 
     private async Task SaveAdultAsync()
     {
-        _adult.JobTitle = new Job
+        adult.JobTitle = new Job
         {
             JobTitle = jobTitle,
             Salary = salary
         };
-        await FileAdapter.UpdateAsync(_adult);
+        await FileAdapter.UpdateAsync(adult);
         NavigationManager.NavigateTo("Adults");
     }
 
     protected override async Task OnInitializedAsync()
     {
-        _adult = await FileAdapter.GetAdultAsync(id);
-        jobTitle = _adult.JobTitle.JobTitle;
-        salary = _adult.JobTitle.Salary;
+        adult = await FileAdapter.GetAdultAsync(id);
+        jobTitle = adult.JobTitle.JobTitle;
+        salary = adult.JobTitle.Salary;
     }
 
 }

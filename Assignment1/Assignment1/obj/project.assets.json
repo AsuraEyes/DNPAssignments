@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/Assignment1.csproj",
+      "projectUniqueName": "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment1/Assignment1/Assignment1.csproj",
       "projectName": "Assignment1",
-      "projectPath": "/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/Assignment1.csproj",
+      "projectPath": "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment1/Assignment1/Assignment1.csproj",
       "packagesPath": "/Users/shadow_asura/.nuget/packages/",
-      "outputPath": "/Users/shadow_asura/RiderProjects/Assignment1/Assignment1/obj/",
+      "outputPath": "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment1/Assignment1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shadow_asura/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nMpQtF5lYTunr7VkYsnHn7Mw1+OmX1+kIeIR0G3Bq6BEJ2AV+MgGgxuA4YqPa17Frxh2kHx8GEukdg9W3ZyqlQ==",
+  "dgSpecHash": "AE6cPzQV89arV7ZyYunsYhZNfwH+o/bHvZooNrfQg6KcvVzewxtXhlzbT0k5k2h4/D9+SAh9/V9tIIMX84u4kQ==",
   "success": true,
-  "projectFilePath": "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/BlazorServer.csproj",
+  "projectFilePath": "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/BlazorServer.csproj",
   "expectedPackageFiles": [
     "/Users/shadow_asura/.nuget/packages/microsoft.aspnetcore.authorization/5.0.0/microsoft.aspnetcore.authorization.5.0.0.nupkg.sha512",
     "/Users/shadow_asura/.nuget/packages/microsoft.aspnetcore.components/5.0.0/microsoft.aspnetcore.components.5.0.0.nupkg.sha512",

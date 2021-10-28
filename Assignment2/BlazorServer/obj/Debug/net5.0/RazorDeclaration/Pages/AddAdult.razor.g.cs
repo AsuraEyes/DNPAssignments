@@ -13,91 +13,91 @@ namespace BlazorServer.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 1 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 2 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 3 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 4 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 5 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 6 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 7 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 8 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 9 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using BlazorServer.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 10 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using Radzen;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 11 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/_Imports.razor"
+#line 11 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/_Imports.razor"
 using Radzen.Blazor;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/Pages/AddAdult.razor"
+#line 2 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/Pages/AddAdult.razor"
 using BlazorServer.Persistence;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/Pages/AddAdult.razor"
+#line 3 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/Pages/AddAdult.razor"
 using BlazorServer.Models;
 
 #line default
@@ -112,27 +112,27 @@ using BlazorServer.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 73 "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/Pages/AddAdult.razor"
+#line 73 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/Pages/AddAdult.razor"
  
-    private readonly Adult _adult = new();
+    private readonly Adult adult = new();
     private string jobTitle;
     private int salary;
     private readonly string errorMessage = "";
 
     protected override async Task OnInitializedAsync()
     {
-        _adult.Sex = "M";
-        _adult.EyeColor = "Brown";
+        adult.Sex = "M";
+        adult.EyeColor = "Brown";
     }
 
     private async Task AddAdultAsync()
     {
-        _adult.JobTitle = new Job
+        adult.JobTitle = new Job
         {
             JobTitle = jobTitle,
             Salary = salary
         };
-        await Adapter.AddAdultAsync(_adult);
+        await Adapter.AddAdultAsync(adult);
         NavigationManager.NavigateTo("/Adults");
     }
 

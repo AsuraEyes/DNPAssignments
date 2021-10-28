@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shadow_asura/RiderProjects/Assignment2/WebAPI/WebAPI.csproj": {}
+    "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/WebAPI.csproj": {}
   },
   "projects": {
-    "/Users/shadow_asura/RiderProjects/Assignment2/WebAPI/WebAPI.csproj": {
+    "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shadow_asura/RiderProjects/Assignment2/WebAPI/WebAPI.csproj",
+        "projectUniqueName": "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "/Users/shadow_asura/RiderProjects/Assignment2/WebAPI/WebAPI.csproj",
+        "projectPath": "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/WebAPI.csproj",
         "packagesPath": "/Users/shadow_asura/.nuget/packages/",
-        "outputPath": "/Users/shadow_asura/RiderProjects/Assignment2/WebAPI/obj/",
+        "outputPath": "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shadow_asura/.nuget/NuGet/NuGet.Config"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

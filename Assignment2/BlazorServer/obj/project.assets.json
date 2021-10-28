@@ -593,11 +593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/BlazorServer.csproj",
+      "projectUniqueName": "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/BlazorServer.csproj",
       "projectName": "BlazorServer",
-      "projectPath": "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/BlazorServer.csproj",
+      "projectPath": "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/BlazorServer.csproj",
       "packagesPath": "/Users/shadow_asura/.nuget/packages/",
-      "outputPath": "/Users/shadow_asura/RiderProjects/Assignment2/BlazorServer/obj/",
+      "outputPath": "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shadow_asura/.nuget/NuGet/NuGet.Config"
@@ -647,7 +647,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }

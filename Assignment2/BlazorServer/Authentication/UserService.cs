@@ -9,7 +9,7 @@ namespace BlazorServer.Authentication
     public class UserService : IUserService
     {
         private readonly HttpClient Client;
-        private readonly string uri = "https://localhost:5003";
+        private readonly string url = "https://localhost:5003";
 
         public UserService()
         {
@@ -21,7 +21,7 @@ namespace BlazorServer.Authentication
             try
             {
                 var stringAsync =
-                    await Client.GetStringAsync(uri + $"/authentication?username={username}&password={password}");
+                    await Client.GetStringAsync(url + $"/authentication?username={username}&password={password}");
                 var account = JsonSerializer.Deserialize<Account>(stringAsync, new JsonSerializerOptions
                 {
                     PropertyNamingPolicy = JsonNamingPolicy.CamelCase
