@@ -24,7 +24,7 @@ namespace RestApi
             services.AddControllers();
             services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo {Title = "WebAPI", Version = "v1"}); });
             services.AddSingleton<IFileAdapter, FileAdapter>();
-            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IAccountService, AccountService>();
             services.AddScoped<IStatisticsModel, FileAdapter>();
         }
 

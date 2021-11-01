@@ -10,20 +10,20 @@ namespace WebAPI.Controllers
     [Route("[controller]")]
     public class AuthenticationController : Controller
     {
-        private readonly IUserService UserService;
+        private readonly IAccountService accountService;
 
-        public AuthenticationController(IUserService userService)
+        public AuthenticationController(IAccountService accountService)
         {
-            UserService = userService;
+            this.accountService = accountService;
         }
 
         [HttpGet]
-        public async Task<ActionResult<User>> ValidateUser([FromQuery] string username, [FromQuery] string password)
+        public async Task<ActionResult<Account>> ValidateUser([FromQuery] string username, [FromQuery] string password)
         {
             if (!ModelState.IsValid) return BadRequest();
             try
             {
-                var account = await UserService.ValidateUserAsync(username, password);
+                var account = await accountService.ValidateUserAsync(username, password);
                 return Ok(account);
             }
             catch (Exception e)

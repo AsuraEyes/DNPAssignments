@@ -6,12 +6,12 @@ using BlazorServer.Models;
 
 namespace BlazorServer.Authentication
 {
-    public class UserService : IUserService
+    public class AccountService : IAccountService
     {
         private readonly HttpClient Client;
         private readonly string url = "https://localhost:5003";
 
-        public UserService()
+        public AccountService()
         {
             Client = new HttpClient();
         }

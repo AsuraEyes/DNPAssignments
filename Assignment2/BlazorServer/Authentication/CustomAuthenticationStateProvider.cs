@@ -12,14 +12,14 @@ namespace BlazorServer.Authentication
     public class CustomAuthenticationStateProvider : AuthenticationStateProvider
     {
         private readonly IJSRuntime jsRuntime;
-        private readonly IUserService userService;
+        private readonly IAccountService _accountService;
 
         private Account cachedUser;
 
-        public CustomAuthenticationStateProvider(IJSRuntime jsRuntime, IUserService userService)
+        public CustomAuthenticationStateProvider(IJSRuntime jsRuntime, IAccountService accountService)
         {
             this.jsRuntime = jsRuntime;
-            this.userService = userService;
+            this._accountService = accountService;
         }
 
         public override async Task<AuthenticationState> GetAuthenticationStateAsync()
@@ -61,7 +61,7 @@ namespace BlazorServer.Authentication
             var identity = new ClaimsIdentity();
             try
             {
-                var user = await userService.ValidateUserAsync(username, password);
+                var user = await _accountService.ValidateUserAsync(username, password);
                 identity = SetupClaimsForUser(user);
                 var serialisedData = JsonSerializer.Serialize(user);
                 jsRuntime.InvokeVoidAsync("sessionStorage.setItem", "currentUser", serialisedData);

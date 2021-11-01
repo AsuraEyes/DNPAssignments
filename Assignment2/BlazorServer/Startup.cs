@@ -25,7 +25,7 @@ namespace BlazorServer
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<IFileAdapter, FileAdapter>();
-            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IAccountService, AccountService>();
             services.AddScoped<IStatisticsModel, FileAdapter>();
             services.AddScoped<AuthenticationStateProvider, CustomAuthenticationStateProvider>();
 

@@ -9,8 +9,6 @@ namespace WebAPI.Persistence
     {
         private readonly string adultsFile = "adults.json";
 
-        private readonly string familiesFile = "families.json";
-
         public FileContext()
         {
             Adults = File.Exists(adultsFile) ? ReadData<Adult>(adultsFile) : new List<Adult>();

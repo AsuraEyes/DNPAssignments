@@ -1,9 +1,9 @@
 ﻿using System.Threading.Tasks;
-using BlazorServer.Models;
+using WebAPI.Models;
 
-namespace BlazorServer.Authentication
+namespace WebAPI.Authentication
 {
-    public interface IUserService
+    public interface IAccountService
     {
         Task<Account> ValidateUserAsync(string username, string password);
     }

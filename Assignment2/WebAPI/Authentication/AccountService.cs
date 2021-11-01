@@ -6,21 +6,21 @@ using WebAPI.Models;
 
 namespace WebAPI.Authentication
 {
-    public class UserService : IUserService
+    public class AccountService : IAccountService
     {
-        private readonly List<User> users;
+        private readonly List<Account> users;
 
-        public UserService()
+        public AccountService()
         {
             users = new[]
             {
-                new User
+                new Account
                 {
                     UserName = "admin",
                     Password = "admin",
                     Role = "ADMIN"
                 },
-                new User
+                new Account
                 {
                     UserName = "Timothy",
                     Password = "123456",
@@ -29,10 +29,10 @@ namespace WebAPI.Authentication
             }.ToList();
         }
 
-        public async Task<User> ValidateUserAsync(string username, string password)
+        public async Task<Account> ValidateUserAsync(string username, string password)
         {
             var first = users.FirstOrDefault(user => user.UserName.Equals(username));
-            if (first == null) throw new Exception("User not found");
+            if (first == null) throw new Exception("Account not found");
             if (!first.Password.Equals(password)) throw new Exception("Incorrect password");
             return first;
         }
