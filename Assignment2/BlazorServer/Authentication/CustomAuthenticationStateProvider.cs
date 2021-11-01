@@ -11,15 +11,15 @@ namespace BlazorServer.Authentication
 {
     public class CustomAuthenticationStateProvider : AuthenticationStateProvider
     {
-        private readonly IJSRuntime jsRuntime;
         private readonly IAccountService _accountService;
+        private readonly IJSRuntime jsRuntime;
 
         private Account cachedUser;
 
         public CustomAuthenticationStateProvider(IJSRuntime jsRuntime, IAccountService accountService)
         {
             this.jsRuntime = jsRuntime;
-            this._accountService = accountService;
+            _accountService = accountService;
         }
 
         public override async Task<AuthenticationState> GetAuthenticationStateAsync()
