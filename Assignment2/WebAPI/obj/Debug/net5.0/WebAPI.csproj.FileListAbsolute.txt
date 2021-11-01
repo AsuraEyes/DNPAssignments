@@ -80,7 +80,6 @@
 /Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/obj/Debug/net5.0/staticwebassets/WebAPI.StaticWebAssets.xml
 /Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/obj/Debug/net5.0/scopedcss/bundle/WebAPI.styles.css
 /Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/obj/Debug/net5.0/WebAPI.RazorTargetAssemblyInfo.cache
-/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/obj/Debug/net5.0/WebAPI.csproj.CopyComplete
 /Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/obj/Debug/net5.0/WebAPI.dll
 /Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/obj/Debug/net5.0/ref/WebAPI.dll
 /Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/WebAPI/obj/Debug/net5.0/WebAPI.pdb
