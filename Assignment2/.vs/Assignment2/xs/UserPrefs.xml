@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{85F5D6E5-1BAA-433D-9605-137EB4D8C536}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorServer/Program.cs">
+    <Files>
+      <File FileName="BlazorServer/Program.cs" Line="19" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment2" expanded="True" selected="True">
+            <Node name="BlazorServer" expanded="True" />
+            <Node name="WebAPI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Assignment2" expanded="True" selected="True">
+            <Node name="BlazorServer" expanded="True" />
+            <Node name="WebAPI" expanded="True">
+              <Node name="RestApi" expanded="True">
+                <Node name="RestApi.Startup" expanded="True" />
+              </Node>
+              <Node name="WebAPI" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BlazorServer PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
