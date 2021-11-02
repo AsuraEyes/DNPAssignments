@@ -54,7 +54,6 @@ namespace BlazorServer.Authentication
 
         public async Task ValidateLoginAsync(string username, string password)
         {
-            Console.WriteLine("Validating log in");
             if (string.IsNullOrEmpty(username)) throw new Exception("Enter username");
             if (string.IsNullOrEmpty(password)) throw new Exception("Enter password");
 
