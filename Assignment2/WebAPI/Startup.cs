@@ -7,7 +7,7 @@ using Microsoft.OpenApi.Models;
 using WebAPI.Authentication;
 using WebAPI.Persistence;
 
-namespace RestApi
+namespace WebApi
 {
     public class Startup
     {
