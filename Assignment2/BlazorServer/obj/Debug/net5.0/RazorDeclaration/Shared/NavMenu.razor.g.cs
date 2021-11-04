@@ -104,7 +104,7 @@ using BlazorServer.Authentication;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 48 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/Shared/NavMenu.razor"
+#line 60 "/Users/shadow_asura/RiderProjects/DNPAssignments/Assignment2/BlazorServer/Shared/NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

@@ -21,7 +21,7 @@
                 <span class="oi oi-person" aria-hidden="true"></span> List Of Adults
             </NavLink>
         </li>
-        <AuthorizeView Policy="AdminOnly">
+        <AuthorizeView Policy="LoggedInOnly">
             <li class="nav-item px-3">
                 <NavLink class="nav-link" href="AddAdult">
                     <span class="oi oi-plus" aria-hidden="true"></span> Add Adult
@@ -29,11 +29,23 @@
             </li>
         </AuthorizeView>
 
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="Statistics">
-                <span class="oi oi-graph" aria-hidden="true"></span> Statistics
-            </NavLink>
-        </li>
+        <AuthorizeView Policy="AdminOnly">
+            <NotAuthorized>
+                <li class="nav-item px-3">
+                    <NavLink class="nav-link" href="Statistics">
+                        <span class="oi oi-lock-locked" aria-hidden="true"></span> Statistics
+                    </NavLink>
+                </li>
+            </NotAuthorized>
+            <Authorized>
+                <li class="nav-item px-3">
+                    <NavLink class="nav-link" href="Statistics">
+                        <span class="oi oi-graph" aria-hidden="true"></span> Statistics
+                    </NavLink>
+                </li>
+            </Authorized>
+        </AuthorizeView>
+        
 
         <AuthorizeView Policy="LoggedInOnly">
             <li @onclick="PerformLogout" class="nav-item px-3" href="Login">
