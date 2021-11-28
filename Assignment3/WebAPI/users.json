@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 2,
+    "UserName": "admin",
+    "Password": "1234",
+    "Role": "admin",
+    "SecurityLevel": 3
+  },
+  {
+    "Id": 1,
+    "UserName": "none",
+    "Password": "1234",
+    "Role": "user",
+    "SecurityLevel": 1
+  },
+  {
+    "Id": 21,
+    "UserName": "name",
+    "Password": "1234",
+    "Role": "moderator",
+    "SecurityLevel": 2
+  }
+]
